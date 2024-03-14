@@ -1,0 +1,904 @@
+{
+  "users": [
+    {
+      "email": "elshodjorayev701@gmail.com",
+      "password": "Elshod701",
+      "name": "Elshod",
+      "location": "Tashkent",
+      "id": 1
+    }
+  ],
+  "all": [
+    {
+      "productId": 1,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cehd2t0v1htd23ajc9qg/original.jpg",
+      "title": "Чайник стеклянный с бамбуковой крышкой и пружинкой",
+      "price": "55 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 2,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cler0lnn7c6qm23jtp30/original.jpg",
+      "title": "Чайник стеклянный, с бамбуковой крышкой и фильтром пружинкой",
+      "price": "45 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 3,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cbqhoakff5b7qe6p3pb0/original.jpg",
+      "title": "Блинная сковорода Kukmara, антипригарное покрытие, темный мрамор",
+      "price": "156 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 4,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cler0lnn7c6qm23jtp30/original.jpg",
+      "title": "Чайник из термостойкого стекла с бамбуковой крышкой + подарок",
+      "price": "65 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 5,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/ckj7gakjvf2sulnv9190/original.jpg",
+      "title": "Кофемашина Philips EP2030/10",
+      "price": "9 915 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 6,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cmt065jifoubkc6q2t0g/original.jpg",
+      "title": "Кофемашина DeLonghi ETAM 29.510.B",
+      "price": "7 135 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 7,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cmp5fg9s99ouqbfrto1g/original.jpg",
+      "title": "Чайник электрический BQ KT2049G, со съемным фильтром с мелкой сеткой, жаропрочное стекло",
+      "price": "229 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 8,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cmp5e1p25ku8ad8imu80/original.jpg",
+      "title": "Чайник электрический BQ KT1822SW из нержавеющей стали, 1.7 л, 2200 Вт",
+      "price": "224 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 9,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cnd0kq1s99ouqbfvu2hg/original.jpg",
+      "title": "Электрический чайник Artel ART-KE-8810",
+      "price": "199 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 10,
+      "categoryName": "home",
+      "img": "https://images.uzum.uz/cksv6pfn7c6qm23ghb90/original.jpg",
+      "title": "Пылесос Artel VCB0316, 1600 Вт",
+      "price": "699 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 11,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/cmi0a71s99ouqbfqm4ig/original.jpg",
+      "title": "Товары для хобби для девочек",
+      "price": "75 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 12,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/cmi0a6ps99ouqbfqm4i0/original.jpg",
+      "title": "Товары для хобби для девочек",
+      "price": "45 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 13,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/cnespphs99ouqb80asng/original.jpg",
+      "title": "Бумага гофрированная, креповая, цветная бумага для творчества, хобби и поделок",
+      "price": "16 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 14,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/ck0n3osjvf2qegt3fpo0/original.jpg",
+      "title": "Настольная игра Hobby World Воображарий Junior",
+      "price": "135 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 15,
+      "categoryName": "hobbi",
+      "img": "https://uzum.uz/ru/product/nastolnaya-igra-hobby-world-voobrazharij-junior-695476",
+      "title": "Настольная игра Hobby World Воображарий Junior",
+      "price": "135 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 16,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/cnj0gb4u2hhlb05gm5c0/original.jpg",
+      "title": "Рамадан дневник, 30 занятий на 30 дней",
+      "price": "72 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 17,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/cnkevk84idugcqegh2s0/original.jpg",
+      "title": "Блокнот My Ramadan, планер, ежедневник для целей и записей",
+      "price": "230 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 18,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/cnjdlksu2hhlb05gnm50/original.jpg",
+      "title": "Стикеры прозрачные, невидимые, для хобби, творчества и учёбы, 76х76 мм, 50 шт",
+      "price": "14 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 19,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/cktq15tennt861infgug/original.jpg",
+      "title": "Стикеры прозрачные для заметок самоклеящиеся, калька, копирка, 50 листов, 76 * 76",
+      "price": "19 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 20,
+      "categoryName": "hobbi",
+      "img": "https://images.uzum.uz/chjl64b6edfostif6db0/original.jpg",
+      "title": "Аппликация Hatber `Сделай Сам` ",
+      "price": "29 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 21,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cjbm73bk9fq5pecv59n0/original.jpg",
+      "title": "Декоративная ваза в виде ведра для искусственных цветов и сухоцветов, Flowers & Garden",
+      "price": "61 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 22,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cmgdtg1s99ouqbfqcl7g/original.jpgs",
+      "title": "Ваза пластиковая, для искусственных цветов и сухоцветов высота, 17 см",
+      "price": "93 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 23,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cm3bk3daqb253442dbp0/original.jpg",
+      "title": "Сменный флакон для автоматического распылителя Garden с ароматом фиалковых цветов",
+      "price": "45 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 24,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cgqf99j57mg9720ego0g/original.jpg",
+      "title": "Садовый шланг Magic Garden Hose для полива, растягивающийся 22,5-30- 45 м + распылитель",
+      "price": "435 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 25,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cnnh6sdbl7rtgkb9t0gg/original.jpg",
+      "title": "Средство для заживления ран деревьев `Садовый вар`, 150 г",
+      "price": "100 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 26,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cjbm73bk9fq5pecv59n0/original.jpg",
+      "title": "Декоративная ваза в виде ведра для искусственных цветов и сухоцветов, Flowers & Garden",
+      "price": "61 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 27,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cmgdtg1s99ouqbfqcl7g/original.jpgs",
+      "title": "Ваза пластиковая, для искусственных цветов и сухоцветов высота, 17 см",
+      "price": "93 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 28,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cm3bk3daqb253442dbp0/original.jpg",
+      "title": "Сменный флакон для автоматического распылителя Garden с ароматом фиалковых цветов",
+      "price": "45 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 29,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cgqf99j57mg9720ego0g/original.jpg",
+      "title": "Садовый шланг Magic Garden Hose для полива, растягивающийся 22,5-30- 45 м + распылитель",
+      "price": "435 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 30,
+      "categoryName": "garden",
+      "img": "https://images.uzum.uz/cnnh6sdbl7rtgkb9t0gg/original.jpg",
+      "title": "Средство для заживления ран деревьев `Садовый вар`, 150 г",
+      "price": "100 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 31,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cjd2etkvutv46np5vlmg/original.jpg",
+      "title": "Автомобиль на радиоуправлении, танцующая машинка Stunt climber car, длина, 28 см",
+      "price": "320 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 32,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cneu7sps99ouqb80bhjg/original.jpg",
+      "title": "Игрушка машинка Classic Car F1, коллекционный, Гоночный",
+      "price": "49 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 33,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cneu7jh25kub33f5hrhg/original.jpg",
+      "title": "Игрушка машинка Classic Car F1, коллекционный, Гоночный",
+      "price": "92 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 34,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cnbnntjifoubkc6t31r0/original.jpg",
+      "title": "Игрушка машинка Super Car, Police, тачки, F1, коллекционный, гоночный",
+      "price": "35 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 35,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cnhfarg4idugcqefsc70/original.jpg",
+      "title": "Игрушка машинка Super Car, тачки, F1, коллекционный, гоночный",
+      "price": "182 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 36,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cjd2etkvutv46np5vlmg/original.jpg",
+      "title": "Автомобиль на радиоуправлении, танцующая машинка Stunt climber car, длина, 28 см",
+      "price": "320 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 37,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cneu7sps99ouqb80bhjg/original.jpg",
+      "title": "Игрушка машинка Classic Car F1, коллекционный, Гоночный",
+      "price": "49 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 38,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cneu7jh25kub33f5hrhg/original.jpg",
+      "title": "Игрушка машинка Classic Car F1, коллекционный, Гоночный",
+      "price": "92 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 39,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cnbnntjifoubkc6t31r0/original.jpg",
+      "title": "Игрушка машинка Super Car, Police, тачки, F1, коллекционный, гоночный",
+      "price": "35 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 40,
+      "categoryName": "cars",
+      "img": "https://images.uzum.uz/cnhfarg4idugcqefsc70/original.jpg",
+      "title": "Игрушка машинка Super Car, тачки, F1, коллекционный, гоночный",
+      "price": "182 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 41,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/cnecru925kub33f5e4a0/original.jpg",
+      "title": "Аппарат для маникюра и педикюра Strong 210, с педалью",
+      "price": "1 432 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 42,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/cli8fbtennt6m29067q0/original.jpg",
+      "title": "Сварочный аппарат Biyoti BYT-MIG-350",
+      "price": "1 244 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 43,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/cn4quo1s99ouqbfu4icg/original.jpg",
+      "title": "Сварочный аппарат Ubay UB-220MIG",
+      "price": "1 492 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 44,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/cjjnpnsjvf2ofbh7q48g/original.jpg",
+      "title": "Портативный электрический сварочный аппарат XCORT ARC120",
+      "price": "31 235 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 45,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/chm5qsrltlh4bk4k4irg/original.jpg",
+      "title": "Зажим заземления, для ручного сварочного аппарата, 500A",
+      "price": "182 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 46,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/cnecru925kub33f5e4a0/original.jpg",
+      "title": "Аппарат для маникюра и педикюра Strong 210, с педалью",
+      "price": "1 432 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 47,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/cli8fbtennt6m29067q0/original.jpg",
+      "title": "Сварочный аппарат Biyoti BYT-MIG-350",
+      "price": "1 244 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 48,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/cn4quo1s99ouqbfu4icg/original.jpg",
+      "title": "Сварочный аппарат Ubay UB-220MIG",
+      "price": "1 492 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 49,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/cjjnpnsjvf2ofbh7q48g/original.jpg",
+      "title": "Портативный электрический сварочный аппарат XCORT ARC120",
+      "price": "31 235 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 50,
+      "categoryName": "texno",
+      "img": "https://images.uzum.uz/chm5qsrltlh4bk4k4irg/original.jpg",
+      "title": "Зажим заземления, для ручного сварочного аппарата, 500A",
+      "price": "182 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 51,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/cno26lcu2hhlb05hm84g/original.jpg",
+      "title": "Детские носки The Kuka kids, набор для девочек в подарочной коробке, базовые домашние",
+      "price": "42 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 52,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/ck5h3ccjvf2qegt49n8g/original.jpg",
+      "title": "Стикеры Stray Kids, на телефон и другие предметы",
+      "price": "4 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 53,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/clfk8ct6sfhvbd1imp00/original.jpg",
+      "title": "Детские умные часы, Smart Q12, умные часы для девочек и мальчиков, GPS и SIM-карта",
+      "price": "162 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 54,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/cmsuslp25ku8jql6d5m0/original.jpg",
+      "title": "Силиконовые беруши для ушей TYR Kids Soft Silicone Ear Plugs",
+      "price": "175 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 55,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/cfi8qgtennt3ujbrt5f0/original.jpg",
+      "title": "Электрическая зубная щетка Oral-B Vitality Kids Spiderman",
+      "price": "505 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 56,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/cno26lcu2hhlb05hm84g/original.jpg",
+      "title": "Детские носки The Kuka kids, набор для девочек в подарочной коробке, базовые домашние",
+      "price": "42 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 57,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/ck5h3ccjvf2qegt49n8g/original.jpg",
+      "title": "Стикеры Stray Kids, на телефон и другие предметы",
+      "price": "4 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 58,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/clfk8ct6sfhvbd1imp00/original.jpg",
+      "title": "Детские умные часы, Smart Q12, умные часы для девочек и мальчиков, GPS и SIM-карта",
+      "price": "162 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 59,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/cmsuslp25ku8jql6d5m0/original.jpg",
+      "title": "Силиконовые беруши для ушей TYR Kids Soft Silicone Ear Plugs",
+      "price": "175 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 60,
+      "categoryName": "kids",
+      "img": "https://images.uzum.uz/cfi8qgtennt3ujbrt5f0/original.jpg",
+      "title": "Электрическая зубная щетка Oral-B Vitality Kids Spiderman",
+      "price": "505 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 61,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cnh03hdbl7rtgkb8ia80/original.jpg",
+      "title": "Игрушечные машинки почтовые службы, вертолеты, мотоциклы, машина спецслужбы",
+      "price": "42 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 62,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cne9r5h25kub33f5cshg/original.jpg",
+      "title": "Игрушечные машинки почтовые службы, вертолеты, мотоциклы, машина спецслужбы",
+      "price": "84 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 63,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cm7q583ifoubkc6mk0l0/original.jpg",
+      "title": "Детские умные часы, Smart Q12, умные часы для девочек и мальчиков, GPS и SIM-карта",
+      "price": "462 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 64,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cm5e1m125ku1lubqduv0/original.jpg",
+      "title": "Детские умные часы, Smart Q12, умные часы для девочек и мальчиков, GPS и SIM-карта",
+      "price": "325 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 65,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cfi8qgtennt3ujbrt5f0/original.jpg",
+      "title": "Детские умные часы, Smart Q12, умные часы для девочек и мальчиков, GPS и SIM-карта",
+      "price": "325 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 66,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cnh03hdbl7rtgkb8ia80/original.jpg",
+      "title": "Игрушечные машинки почтовые службы, вертолеты, мотоциклы, машина спецслужбы",
+      "price": "42 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 67,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cne9r5h25kub33f5cshg/original.jpg",
+      "title": "Игрушечные машинки почтовые службы, вертолеты, мотоциклы, машина спецслужбы",
+      "price": "84 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 68,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cm7q583ifoubkc6mk0l0/original.jpg",
+      "title": "Детские умные часы, Smart Q12, умные часы для девочек и мальчиков, GPS и SIM-карта",
+      "price": "462 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 69,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cm5e1m125ku1lubqduv0/original.jpg",
+      "title": "Детские умные часы, Smart Q12, умные часы для девочек и мальчиков, GPS и SIM-карта",
+      "price": "325 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 70,
+      "categoryName": "service",
+      "img": "https://images.uzum.uz/cfi8qgtennt3ujbrt5f0/original.jpg",
+      "title": "Детские умные часы, Smart Q12, умные часы для девочек и мальчиков, GPS и SIM-карта",
+      "price": "325 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 71,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/cl0usvdennt861io2so0/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "42 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 72,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/cm25uehs99ouqbfod8kg/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "84 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 73,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/cm25uehs99ouqbfod8l0/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "462 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 74,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/ce24gl0v1htd23aigei0/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "325 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 75,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/cm25uejifou4n1hsj3gg/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "325 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 76,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/cl0usvdennt861io2so0/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "42 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 77,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/cm25uehs99ouqbfod8kg/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "84 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 78,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/cm25uehs99ouqbfod8l0/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "462 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 79,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/ce24gl0v1htd23aigei0/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "325 000",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 80,
+      "categoryName": "animals",
+      "img": "https://images.uzum.uz/cm25uejifou4n1hsj3gg/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "325 000",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 81,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/cie53edenntd8rfcg4q0/original.jpg",
+      "title": "Корзинка для картофеля фри с ручкой",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 82,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/chhtdr75d7kom1tfs50g/original.jpg",
+      "title": "Триггеры + напальчники, для игр pubg, free fire, standoff, для телефонa",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 83,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/cme0cjbifoubkc6ncq50/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 84,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/cmsv7p9s99ouqbfsl87g/original.jpg",
+      "title": "Триггеры для игры Pubg (кнопка)",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 85,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/clb0lot6sfhgee0m08ug/original.jpg",
+      "title": "Гель для стирки, универсальный Wash&Free c ароматом горной свежести",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 86,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/cie53edenntd8rfcg4q0/original.jpg",
+      "title": "Корзинка для картофеля фри с ручкой",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 87,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/chhtdr75d7kom1tfs50g/original.jpg",
+      "title": "Триггеры + напальчники, для игр pubg, free fire, standoff, для телефонa",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 88,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/cme0cjbifoubkc6ncq50/original.jpg",
+      "title": "Коллекция животных для детей Animal kingdom",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 89,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/cmsv7p9s99ouqbfsl87g/original.jpg",
+      "title": "Триггеры для игры Pubg (кнопка)",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 90,
+      "categoryName": "free",
+      "img": "https://images.uzum.uz/clb0lot6sfhgee0m08ug/original.jpg",
+      "title": "Гель для стирки, универсальный Wash&Free c ароматом горной свежести",
+      "price": "0",
+      "time": "Bugun 12:27"
+    },
+
+    {
+      "productId": 91,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/cn6d60jifoubkc6rtf0g/original.jpg",
+      "title": "FW Exchange Blanc Edition парфюмерная вода для мужчин, 100 мл",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 92,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/ce092e2vtie1lhbe9gpg/original.jpg",
+      "title": "Радар детектор Neoline X-COP 7700S, aвтомобильное зарядное устройство",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 93,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/cjq4kfjk9fq13g44vqng/original.jpg",
+      "title": "Чехол для сидений автомобиля Cardinar Alfa Lacetti, Spark, Nexia 3, Cobalt",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 94,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/ckjunsrk9fq4ejbm13ug/original.jpg",
+      "title": "Ноутбук Lenovo Intel Celeron N4020, 8 ГБ DDR4, 256 ГБ SSD, 15` HD DOS",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 95,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/cjd179kjvf2mtfam30a0/original.jpg",
+      "title": "Кулер для воды WellStars, с фреоновым холодильником, 3 цвета",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 96,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/cn6d60jifoubkc6rtf0g/original.jpg",
+      "title": "FW Exchange Blanc Edition парфюмерная вода для мужчин, 100 мл",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 97,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/ce092e2vtie1lhbe9gpg/original.jpg",
+      "title": "Радар детектор Neoline X-COP 7700S, aвтомобильное зарядное устройство",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 98,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/cjq4kfjk9fq13g44vqng/original.jpg",
+      "title": "Чехол для сидений автомобиля Cardinar Alfa Lacetti, Spark, Nexia 3, Cobalt",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 99,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/ckjunsrk9fq4ejbm13ug/original.jpg",
+      "title": "Ноутбук Lenovo Intel Celeron N4020, 8 ГБ DDR4, 256 ГБ SSD, 15` HD DOS",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    },
+    {
+      "productId": 100,
+      "categoryName": "exchange",
+      "img": "https://images.uzum.uz/cjd179kjvf2mtfam30a0/original.jpg",
+      "title": "Кулер для воды WellStars, с фреоновым холодильником, 3 цвета",
+      "price": "exchange",
+      "time": "Bugun 12:27"
+    }
+  ],
+  "home": [
+    {
+      "categoryId": 1,
+      "categoryTitle": "Ko'chmas mulk",
+      "categoryImg": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/home.png",
+      "categoryName": "home"
+    }
+  ],
+  "hobbi": [
+    {
+      "categoryId": 2,
+      "categoryTitle": "Xobbi",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/hobby.png",
+      "categoryName": "hobbi"
+    }
+  ],
+  "garden": [
+    {
+      "categoryId": 3,
+      "categoryTitle": "Uy va bog‘",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/garden.png",
+      "categoryName": "garden"
+    }
+  ],
+  "cars": [
+    {
+      "categoryId": 4,
+      "categoryTitle": "Transport",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/car.png",
+      "categoryName": "cars"
+    }
+  ],
+  "texno": [
+    {
+      "categoryId": 5,
+      "categoryTitle": "Elektr jihozlari",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/techno.png",
+      "categoryName": "texno"
+    }
+  ],
+  "children-for": [
+    {
+      "categoryId": 6,
+      "categoryTitle": "Bolalar uchun",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/kids.png",
+      "categoryName": "kids"
+    }
+  ],
+  "service": [
+    {
+      "categoryId": 7,
+      "categoryTitle": "Xizmatlar",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/work.png",
+      "categoryName": "service"
+    }
+  ],
+  "animals": [
+    {
+      "categoryId": 8,
+      "categoryTitle": "Hayvonlar",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/animals.png",
+      "categoryName": "animals"
+    }
+  ],
+  "free": [
+    {
+      "categoryId": 9,
+      "categoryTitle": "Hayvonlar",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/animals.png",
+      "categoryName": "free"
+    }
+  ],
+  "exchange": [
+    {
+      "categoryId": 10,
+      "categoryTitle": "Ayirboshlash",
+      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/exchange.png",
+      "categoryName": "exchange"
+    }
+  ]
+}
