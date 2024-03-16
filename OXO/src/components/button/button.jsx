@@ -1,9 +1,11 @@
 import clsx from "clsx";
 import React from "react";
 
-const Button = ({ children, variant }) => {
+const Button = ({ children, variant, onClick, type }) => {
   return (
     <button
+      type={type}
+      onClick={onClick}
       className={clsx({
         "rounded-lg bg-[#19191C] px-4 py-2 text-[#fff] font-medium hover:bg-[#6e6e6e] ":
           variant === "addvert",

@@ -37,7 +37,7 @@
       "productId": 4,
       "categoryName": "home",
       "img": "https://images.uzum.uz/cler0lnn7c6qm23jtp30/original.jpg",
-      "title": "Чайник из термостойкого стекла с бамбуковой крышкой + подарок",
+      "title": "Триггеры, напальчники, для игр pubg.",
       "price": "65 000",
       "time": "Bugun 12:27"
     },
@@ -207,7 +207,7 @@
       "productId": 25,
       "categoryName": "garden",
       "img": "https://images.uzum.uz/cnnh6sdbl7rtgkb9t0gg/original.jpg",
-      "title": "Средство для заживления ран деревьев `Садовый вар`, 150 г",
+      "title": "Триггеры, напальчники, для игр pubg.",
       "price": "100 000",
       "time": "Bugun 12:27"
     },
@@ -247,7 +247,7 @@
       "productId": 30,
       "categoryName": "garden",
       "img": "https://images.uzum.uz/cnnh6sdbl7rtgkb9t0gg/original.jpg",
-      "title": "Средство для заживления ран деревьев `Садовый вар`, 150 г",
+      "title": "Триггеры, напальчники, для игр pubg.",
       "price": "100 000",
       "time": "Bugun 12:27"
     },
@@ -361,7 +361,7 @@
       "productId": 44,
       "categoryName": "texno",
       "img": "https://images.uzum.uz/cjjnpnsjvf2ofbh7q48g/original.jpg",
-      "title": "Портативный электрический сварочный аппарат XCORT ARC120",
+      "title": "Сварочный аппарат Ubay UB-220MIG",
       "price": "31 235 000",
       "time": "Bugun 12:27"
     },
@@ -401,7 +401,7 @@
       "productId": 49,
       "categoryName": "texno",
       "img": "https://images.uzum.uz/cjjnpnsjvf2ofbh7q48g/original.jpg",
-      "title": "Портативный электрический сварочный аппарат XCORT ARC120",
+      "title": "Сварочный аппарат Ubay UB-220MIG",
       "price": "31 235 000",
       "time": "Bugun 12:27"
     },
@@ -671,7 +671,7 @@
       "productId": 82,
       "categoryName": "free",
       "img": "https://images.uzum.uz/chhtdr75d7kom1tfs50g/original.jpg",
-      "title": "Триггеры + напальчники, для игр pubg, free fire, standoff, для телефонa",
+      "title": "Триггеры, напальчники, для игр pubg.",
       "price": "0",
       "time": "Bugun 12:27"
     },
@@ -711,7 +711,7 @@
       "productId": 87,
       "categoryName": "free",
       "img": "https://images.uzum.uz/chhtdr75d7kom1tfs50g/original.jpg",
-      "title": "Триггеры + напальчники, для игр pubg, free fire, standoff, для телефонa",
+      "title": "Триггеры, напальчники, для игр pubg.",
       "price": "0",
       "time": "Bugun 12:27"
     },
@@ -824,7 +824,7 @@
   "categories": [
     {
       "categoryId": 1,
-      "categoryTitle": "Ko'chmas mulk",
+      "categoryTitle": "Ro'zg'or",
       "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/home.png",
       "categoryName": "home"
     },

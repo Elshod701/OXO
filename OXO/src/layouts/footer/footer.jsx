@@ -3,14 +3,16 @@ import React from "react";
 import logo from "../../assets/images/logo.png";
 import app_store from "../../assets/images/appstore.svg";
 import playmarket from "../../assets/images/playmarket.svg";
+import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <footer className="bg-[#19191C] text-[#FFFFFF] font-medium">
       <div className="container">
         <div className="footer-wrapper flex items-start justify-between py-5">
-          <div>
+          <Link to="/">
             <img className="w-[83px]" src={logo} alt="logo" />
-          </div>
+          </Link>
+
           <ul className="leading-[34px]">
             <li>
               <a href="#">Mobil ilovalar</a>

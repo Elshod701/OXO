@@ -7,13 +7,14 @@ import Filter from "./pages/filter/filter";
 import Product_detail from "./pages/product-detail/product_detail";
 import Create_product from "./pages/create-product/create_product";
 import Login from "./pages/login/login";
+import UseScroll from "./hooks/useScrollTop";
 // layout
 import Layout from "./layouts/main-layout/layout";
-
 
 const App = () => {
   return (
     <>
+      <UseScroll />
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
