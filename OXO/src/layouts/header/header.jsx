@@ -7,6 +7,7 @@ import { FaRegHeart } from "react-icons/fa";
 import { FaUserAlt } from "react-icons/fa";
 // components
 import Button from "../../components/button/button";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -14,9 +15,9 @@ const Header = () => {
       <header className="shadow-lg ">
         <div className="container">
           <div className="nav flex items-center justify-between h-[72px]">
-            <div>
+            <Link to="/">
               <img className="w-[83px]" src={logo} alt="logo" />
-            </div>
+            </Link>
             <div className="flex items-center justify-center gap-7">
               <div className="flex items-center gap-2">
                 <LuMessageSquare />

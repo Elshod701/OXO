@@ -7,7 +7,9 @@ const Layout = () => {
   return (
     <>
       <Header />
-      <Outlet />
+      <main className="mt-[72px]">
+        <Outlet />
+      </main>
       <Footer />
     </>
   );

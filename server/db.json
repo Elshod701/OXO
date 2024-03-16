@@ -125,7 +125,7 @@
     {
       "productId": 15,
       "categoryName": "hobbi",
-      "img": "https://uzum.uz/ru/product/nastolnaya-igra-hobby-world-voobrazharij-junior-695476",
+      "img": "https://images.uzum.uz/ck0n3osjvf2qegt3fpng/original.jpg",
       "title": "Настольная игра Hobby World Воображарий Junior",
       "price": "135 000",
       "time": "Bugun 12:27"
@@ -182,7 +182,7 @@
     {
       "productId": 22,
       "categoryName": "garden",
-      "img": "https://images.uzum.uz/cmgdtg1s99ouqbfqcl7g/original.jpgs",
+      "img": "https://images.uzum.uz/cmgdtg1s99ouqbfqcl7g/original.jpg",
       "title": "Ваза пластиковая, для искусственных цветов и сухоцветов высота, 17 см",
       "price": "93 000",
       "time": "Bugun 12:27"
@@ -222,7 +222,7 @@
     {
       "productId": 27,
       "categoryName": "garden",
-      "img": "https://images.uzum.uz/cmgdtg1s99ouqbfqcl7g/original.jpgs",
+      "img": "https://images.uzum.uz/cmgdtg1s99ouqbfqcl7g/original.jpg",
       "title": "Ваза пластиковая, для искусственных цветов и сухоцветов высота, 17 см",
       "price": "93 000",
       "time": "Bugun 12:27"
@@ -821,83 +821,65 @@
       "time": "Bugun 12:27"
     }
   ],
-  "home": [
+  "categories": [
     {
       "categoryId": 1,
       "categoryTitle": "Ko'chmas mulk",
-      "categoryImg": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/home.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/home.png",
       "categoryName": "home"
-    }
-  ],
-  "hobbi": [
+    },
     {
       "categoryId": 2,
       "categoryTitle": "Xobbi",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/hobby.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/hobby.png",
       "categoryName": "hobbi"
-    }
-  ],
-  "garden": [
+    },
     {
       "categoryId": 3,
       "categoryTitle": "Uy va bog‘",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/garden.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/garden.png",
       "categoryName": "garden"
-    }
-  ],
-  "cars": [
+    },
     {
       "categoryId": 4,
       "categoryTitle": "Transport",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/car.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/car.png",
       "categoryName": "cars"
-    }
-  ],
-  "texno": [
+    },
     {
       "categoryId": 5,
       "categoryTitle": "Elektr jihozlari",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/techno.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/techno.png",
       "categoryName": "texno"
-    }
-  ],
-  "children-for": [
+    },
     {
       "categoryId": 6,
       "categoryTitle": "Bolalar uchun",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/kids.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/kids.png",
       "categoryName": "kids"
-    }
-  ],
-  "service": [
+    },
     {
       "categoryId": 7,
       "categoryTitle": "Xizmatlar",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/work.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/work.png",
       "categoryName": "service"
-    }
-  ],
-  "animals": [
+    },
     {
       "categoryId": 8,
       "categoryTitle": "Hayvonlar",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/animals.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/animals.png",
       "categoryName": "animals"
-    }
-  ],
-  "free": [
+    },
     {
       "categoryId": 9,
-      "categoryTitle": "Hayvonlar",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/animals.png",
+      "categoryTitle": "Tekinga beraman",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/darom.png",
       "categoryName": "free"
-    }
-  ],
-  "exchange": [
+    },
     {
       "categoryId": 10,
       "categoryTitle": "Ayirboshlash",
-      "categoryImg": "https://github.com/Elshod701/for-images/blob/main/images/category/exchange.png",
+      "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/exchange.png",
       "categoryName": "exchange"
     }
   ]

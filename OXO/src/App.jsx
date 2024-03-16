@@ -10,13 +10,14 @@ import Login from "./pages/login/login";
 // layout
 import Layout from "./layouts/main-layout/layout";
 
+
 const App = () => {
   return (
     <>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="filter" element={<Filter />} />
+          <Route path="filter/:category" element={<Filter />} />
           <Route path="product-detail" element={<Product_detail />} />
           <Route path="login/" element={<Login />}>
             <Route index element={<Profile />} />
