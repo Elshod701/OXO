@@ -1,11 +1,34 @@
 {
   "users": [
     {
-      "email": "elshodjorayev701@gmail.com",
-      "password": "Elshod701",
-      "name": "Elshod",
-      "location": "Tashkent",
+      "email": "jorayevelshod511@gmail.com",
+      "password": "$2a$10$/O45O2nZe2RH0Vf0Mpt2AeV8zQhQ3XnX7SpsyPBhbjX0RjFMpxYyC",
       "id": 1
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "$2a$10$DcZ.q6Y7LKamwb6au4/xeeL6g85dB15rZphCvfMg5azaUsoMsbDWW",
+      "id": 2
+    },
+    {
+      "email": "jorayevelshod12511@gmail.com",
+      "password": "$2a$10$xC9aRATLwhelIWgj8.SeUumCo.rjuijbuOiaTIxxBRzy4Sb4KDohW",
+      "id": 3
+    },
+    {
+      "email": "Elshod701@gmail.com",
+      "password": "$2a$10$KbcGLNOHrSza0XXf3w5dieL6MSMP./h2n41f/3s..EVNPecUrNN1y",
+      "id": 4
+    },
+    {
+      "email": "jorayevelshod512311@gmail.com",
+      "password": "$2a$10$WxvNtOA9AaXetGZs3AcmBughaNN.ihX.BOL/.M5RIHxsGdC40llt6",
+      "id": 5
+    },
+    {
+      "email": "elshodjoray123ev701@gmail.com",
+      "password": "$2a$10$MVaznHPpzfFxYqsFklzw3uBtgC66YAdSpy48GvPlA7dytwGBpD3D2",
+      "id": 6
     }
   ],
   "all": [
@@ -89,7 +112,6 @@
       "price": "699 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 11,
       "categoryName": "hobbi",
@@ -170,7 +192,6 @@
       "price": "29 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 21,
       "categoryName": "garden",
@@ -251,7 +272,6 @@
       "price": "100 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 31,
       "categoryName": "cars",
@@ -332,7 +352,6 @@
       "price": "182 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 41,
       "categoryName": "texno",
@@ -413,7 +432,6 @@
       "price": "182 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 51,
       "categoryName": "kids",
@@ -454,7 +472,6 @@
       "price": "505 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 56,
       "categoryName": "kids",
@@ -495,7 +512,6 @@
       "price": "505 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 61,
       "categoryName": "service",
@@ -576,7 +592,6 @@
       "price": "325 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 71,
       "categoryName": "animals",
@@ -617,7 +632,6 @@
       "price": "325 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 76,
       "categoryName": "animals",
@@ -658,7 +672,6 @@
       "price": "325 000",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 81,
       "categoryName": "free",
@@ -739,7 +752,6 @@
       "price": "0",
       "time": "Bugun 12:27"
     },
-
     {
       "productId": 91,
       "categoryName": "exchange",

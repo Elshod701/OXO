@@ -1,5 +1,5 @@
 import axios from "axios"
-
+import { loadState } from "../lib/local";
 export const request = axios.create({ baseURL: import.meta.env.VITE_API_KEY })
 
 
@@ -29,3 +29,5 @@ export const request = axios.create({ baseURL: import.meta.env.VITE_API_KEY })
 //         return Promise.reject(error);
 //     }
 // );
+
+
