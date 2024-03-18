@@ -1,0 +1,21 @@
+<svg width="46.000000" height="46.000000" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip330_9254">
+			<rect id="location 1" rx="8.000000" width="46.000000" height="46.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="location 1" rx="8.000000" width="46.000000" height="46.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip330_9254)">
+		<path id="Vector" d="M23 38.81L11.58 27.39C8.53 24.34 6.85 20.29 6.85 15.98C6.85 11.66 8.53 7.61 11.58 4.56C14.63 1.51 18.68 -0.17 23 -0.17C27.31 -0.17 31.36 1.51 34.41 4.56C37.46 7.61 39.14 11.66 39.14 15.98C39.14 20.29 37.46 24.34 34.41 27.39L23 38.81ZM23 1.64C19.32 1.64 15.65 3.03 12.85 5.83C7.25 11.43 7.25 20.53 12.85 26.12L23 36.27L33.14 26.12C38.74 20.53 38.74 11.43 33.14 5.83C30.34 3.03 26.67 1.64 23 1.64Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M23 24.06C18.54 24.06 14.91 20.44 14.91 15.98C14.91 11.52 18.54 7.89 23 7.89C27.45 7.89 31.08 11.52 31.08 15.98C31.08 20.44 27.45 24.06 23 24.06ZM23 9.69C19.53 9.69 16.71 12.51 16.71 15.98C16.71 19.44 19.53 22.27 23 22.27C26.46 22.27 29.28 19.44 29.28 15.98C29.28 12.51 26.46 9.69 23 9.69Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M23 42.62L14.32 33.95L8.62 33.95L5.03 44.73L40.96 44.73L37.37 33.95L31.67 33.95L23 42.62Z" fill="#EA3838" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M42.21 45.63L3.78 45.63L7.97 33.05L14.69 33.05L23 41.35L31.3 33.05L38.02 33.05L42.21 45.63ZM23.06 43.83L39.72 43.83L36.72 34.84L32.04 34.84L23.06 43.83ZM6.27 43.83L22.93 43.83L13.95 34.84L9.27 34.84L6.27 43.83Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M22.1 8.79L23.89 8.79L23.89 12.38L22.1 12.38L22.1 8.79Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M22.1 19.57L23.89 19.57L23.89 23.16L22.1 23.16L22.1 19.57Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M26.59 15.08L30.18 15.08L30.18 16.88L26.59 16.88L26.59 15.08Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M15.81 15.08L19.4 15.08L19.4 16.88L15.81 16.88L15.81 15.08Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

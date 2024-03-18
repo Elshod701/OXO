@@ -70,7 +70,10 @@ const Home = () => {
                 <>
                   {infiniteData?.pages.map((page) =>
                     page.map((e) => (
-                      <Link key={nanoid()}>
+                      <Link
+                        to={`/product-detail/${e.productId}`}
+                        key={nanoid()}
+                      >
                         <ItemCards {...e} />
                       </Link>
                     ))

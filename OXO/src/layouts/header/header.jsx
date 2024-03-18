@@ -10,15 +10,24 @@ import { FaUserAlt } from "react-icons/fa";
 import Button from "../../components/button/button";
 import { Link } from "react-router-dom";
 import { loadState } from "../../lib/local";
+import { toast } from "react-toastify";
 const Header = () => {
   const navigate = useNavigate();
   const token = loadState("user");
 
-  const CheckToken = () => {
+  const CheckTokenForLogin = () => {
     if (token) {
       navigate("/profile");
     } else {
       navigate("/login");
+    }
+  };
+  const CheckTokenForCreating = () => {
+    if (token) {
+      navigate("/create-product");
+    } else {
+      navigate("/login");
+      toast.error("Avval ro'yxatdan o'ting");
     }
   };
   // user account ga o'tmoqchi bo'lsa,
@@ -44,7 +53,7 @@ const Header = () => {
               </div>
 
               <div
-                onClick={CheckToken}
+                onClick={CheckTokenForLogin}
                 className="flex items-center gap-2 hover:text-gray-400 cursor-pointer"
               >
                 <FaUserAlt />
@@ -55,7 +64,9 @@ const Header = () => {
                 <option value="UZ">UZ</option>
                 <option value="RU">RU</option>
               </select>
-              <Button variant="addvert">E'lonlarni joylashtirish</Button>
+              <Button onClick={CheckTokenForCreating} variant="addvert">
+                <Link> E'lonlarni joylashtirish</Link>
+              </Button>
             </div>
           </div>
         </div>

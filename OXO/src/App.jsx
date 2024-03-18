@@ -12,6 +12,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 // layout
 import Layout from "./layouts/main-layout/layout";
+import PageNotFound from "./pages/page-not-found/page-not-found";
 
 const App = () => {
   return (
@@ -22,11 +23,11 @@ const App = () => {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="filter/:category" element={<Filter />} />
-          <Route path="product-detail" element={<Product_detail />} />
+          <Route path="product-detail/:id" element={<Product_detail />} />
           <Route path="login" element={<Login />} />
           <Route path="profile" element={<Profile />} />
           <Route path="create-product" element={<Create_product />} />
-          <Route path="*" element={<h1>NOT FOUND</h1>} />
+          <Route path="*" element={<PageNotFound />} />
         </Route>
       </Routes>
     </>

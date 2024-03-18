@@ -8,19 +8,19 @@ import { Loading } from "../../components/loading/loading";
 const Filter = () => {
   const { category } = useParams();
   const { data: all, isLoading } = useGetAll();
-
   const filteredData = all?.filter((e) => e.categoryName === category);
-  console.log(filteredData);
+
   return (
     <section className="bg-[#F7F7F7]">
       <div className="container">
         <div className="flex">
           <p className="text-2xl font-bold  hover: cursor-pointer hover:text-gray-500">
-            <Link to="/">Главная/</Link>
+            <Link to="/">Главная</Link>
           </p>
-          <p className="text-2xl font-bold hover: cursor-pointer hover:text-gray-500">
-            {filteredData[0].categoryName.toUpperCase()}
-          </p>
+          {/* <p className="text-2xl font-bold hover: cursor-pointer hover:text-gray-500"> */}
+          {/* {filteredData[0].categoryName.toUpperCase()} */}
+          {/* bu yerda glavnaya dan keyin categoryname ni qo'ymoqchi edim, lekin bitta refreshdan keyin error beryapti */}
+          {/* </p> */}
         </div>
         <div className="flex items-center flex-wrap gap-4 py-5 justify-between ">
           {isLoading ? (
@@ -28,7 +28,9 @@ const Filter = () => {
           ) : (
             <>
               {filteredData?.map((e) => (
-                <ItemCards {...e} key={nanoid()} />
+                <Link to={`/product-detail/${e.productId}`} key={nanoid()}>
+                  <ItemCards {...e} />
+                </Link>
               ))}
             </>
           )}

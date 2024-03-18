@@ -9,3 +9,5 @@
 // }
 
 
+
+// mutation bilan muammo bor edi ustoz, shunga request ni o'zini ishlatib ketaverdim
