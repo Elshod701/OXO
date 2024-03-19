@@ -1,4 +1,5 @@
 import React from "react";
+import { useState } from "react";
 import { useGetCategories } from "../../service/query/useGetCategories";
 import { CategoryCard } from "../../components/category-cards/category-card";
 import { nanoid } from "nanoid";
@@ -16,6 +17,17 @@ const Home = () => {
   const placeholderCount = data?.length;
   const { data: infiniteData, fetchNextPage, hasNextPage } = useInfiniteData();
   const { data: categories, isLoading } = useGetCategories();
+  const [searchTerm, setSearchTerm] = useState("");
+  const [searchResults, setSearchResults] = useState([]);
+
+  const handleSearch = (event) => {
+    setSearchTerm(event.target.value);
+    const results = data?.filter((item) =>
+      item.title.toLowerCase().includes(event.target.value.toLowerCase())
+    );
+    setSearchResults(results);
+  };
+
   return (
     <>
       <section className="h-[112px] bg-[#F7F7F7] py-8 mt-[72px]">
@@ -30,6 +42,8 @@ const Home = () => {
                   }
                   className="outline-none bg-transparent w-[560px] pr-3 "
                   type="text"
+                  value={searchTerm}
+                  onChange={handleSearch}
                 />
               </div>
               <div className="w-[340px] flex items-center px-2 py-3 gap-2">
@@ -41,8 +55,22 @@ const Home = () => {
                 />
               </div>
             </div>
-            <Button variant="addvert">Izlash</Button>
+            <Button onClick={(e) => e.preventDefault()} variant="addvert">
+              Izlash
+            </Button>
           </form>
+          {searchTerm && (
+            <ul className="bg-white z-50  absolute shadow-2xl p-4 w-[900px] h-[400px]  overflow-y-scroll">
+              {searchResults?.map((item) => (
+                <Link to={`/product-detail/${item.productId}`} key={nanoid()}>
+                  <li className="p-3 flex items-center gap-2 hover:bg-[#d5d5d5] hover:cursor-pointer">
+                    <img className="w-[40px] h-[40px]" src={item.img} alt="" />
+                    {item.title}
+                  </li>
+                </Link>
+              ))}
+            </ul>
+          )}
         </div>
       </section>
       <section id="categ-sec">
@@ -69,14 +97,7 @@ const Home = () => {
               ) : (
                 <>
                   {infiniteData?.pages.map((page) =>
-                    page.map((e) => (
-                      <Link
-                        to={`/product-detail/${e.productId}`}
-                        key={nanoid()}
-                      >
-                        <ItemCards {...e} />
-                      </Link>
-                    ))
+                    page.map((e) => <ItemCards key={nanoid()} {...e} e={e} />)
                   )}
                 </>
               )}

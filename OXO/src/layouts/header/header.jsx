@@ -11,6 +11,7 @@ import Button from "../../components/button/button";
 import { Link } from "react-router-dom";
 import { loadState } from "../../lib/local";
 import { toast } from "react-toastify";
+
 const Header = () => {
   const navigate = useNavigate();
   const token = loadState("user");
@@ -47,10 +48,10 @@ const Header = () => {
                 <LuMessageSquare />
                 <p className="font-medium">Xabarlar</p>
               </div>
-              <div className="flex items-center gap-2">
+              <Link to="/liked" className="flex items-center gap-2">
                 <FaRegHeart />
                 <p className="font-medium">Yoqtirganlar</p>
-              </div>
+              </Link>
 
               <div
                 onClick={CheckTokenForLogin}

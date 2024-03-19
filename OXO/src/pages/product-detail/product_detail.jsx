@@ -7,18 +7,20 @@ import { FaRegHeart } from "react-icons/fa";
 import { FaEye } from "react-icons/fa";
 import { FaFontAwesomeFlag } from "react-icons/fa";
 import { FaPhoneAlt } from "react-icons/fa";
+import { ItemCards } from "../../components/item-cards/item-cards";
 import Button from "../../components/button/button";
 import userImg from "../../assets/images/user.jpg";
+import reklama from "../../assets/images/reklama.png";
 import skripkaImg from "../../assets/images/skripka.svg";
 import locationimg from "../../assets/images/location.svg";
 import mapimg from "../../assets/images/map.png";
+import { nanoid } from "nanoid";
 
 const Product_detail = () => {
   const { id } = useParams();
   const { data } = useGetAll();
   const token = loadState("user");
   const singleItem = data?.find((e) => e.productId == id);
-
   return (
     <>
       <section className="bg-[#F7F7F7] pb-6">
@@ -207,6 +209,18 @@ const Product_detail = () => {
                 </div>
               </div>
             </div>
+            <img className="h-[1090px]" src={reklama} alt="" />
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-[#F7F7F7] pb-14">
+        <div className="container">
+          <h1 className="font-bold text-[24px]">O'xshash tovarlar</h1>
+          <div className="flex items-center gap-4 flex-wrap">
+            {data?.slice(0, 10)?.map((e) => (
+              <ItemCards key={nanoid()} {...e} e={e} />
+            ))}
           </div>
         </div>
       </section>

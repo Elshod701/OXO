@@ -28,9 +28,7 @@ const Filter = () => {
           ) : (
             <>
               {filteredData?.map((e) => (
-                <Link to={`/product-detail/${e.productId}`} key={nanoid()}>
-                  <ItemCards {...e} />
-                </Link>
+                <ItemCards {...e} key={nanoid()} e={e} />
               ))}
             </>
           )}

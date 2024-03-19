@@ -1,34 +1,9 @@
 {
   "users": [
     {
-      "email": "hello@gmail.com",
-      "password": "$2a$10$d17uOyhOoJ4P3YMygoIaJeEyhlpHNBfhxZ.ETOx8BE5mNDUICgqDW",
+      "email": "asdsadsadsa@gmail.com",
+      "password": "$2a$10$tkp/MRZ9Jfkly9mukTbjteTgG/5l9hxsrhqjnal55/Qw2pMnj3njW",
       "id": 1
-    },
-    {
-      "email": "hellowq@gmail.com",
-      "password": "$2a$10$FngBEKU31WNBE.nn097GweQexUIxQ8WLehFW5UfMGlENEL47iSgc6",
-      "id": 2
-    },
-    {
-      "email": "asdsadsa@gmail.com",
-      "password": "$2a$10$g5t.nrmBvyq2d.64IkXbjuu5aAJU/LRMIIH63PUvT4uLw/du1EL02",
-      "id": 3
-    },
-    {
-      "email": "elshodjo123rayev701@mail.com",
-      "password": "$2a$10$Eh2qrP6ggOllgrdz.4whYeTIWGrATdUO1.AeGMrPvAl3VlA.iEgJK",
-      "id": 4
-    },
-    {
-      "email": "1221321321waqewewqqweqweqwzewqezqw@gmail.com",
-      "password": "$2a$10$NBXvdbvxRbIWNUPw/zjKYON9iT8T60hJBGDSP4JbeMwy39u7RIJQi",
-      "id": 5
-    },
-    {
-      "email": "sadasdasd@gmail.com",
-      "password": "$2a$10$4LQ2wOSvkHES.ybyURux.OHYXT/0.6LJzCFUvjtDsb7IvAZ5GlO72",
-      "id": 6
     }
   ],
   "all": [
@@ -894,5 +869,15 @@
       "img": "https://raw.githubusercontent.com/Elshod701/for-images/main/images/category/exchange.png",
       "categoryName": "exchange"
     }
-  ]
+  ],
+  "home": [],
+  "hobbi": [],
+  "garden": [],
+  "cars": [],
+  "texno": [],
+  "children-for": [],
+  "service": [],
+  "animals": [],
+  "free": [],
+  "exchange": []
 }
